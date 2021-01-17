@@ -1,0 +1,18 @@
+.c1{
+    width: 1700px;
+}
+.title{
+    font-style: italic;
+    color: black;
+    margin-top:0.4%;
+    font-size: 25px;
+}
+.t1:hover{
+    color: gray;
+    cursor: default;
+}
+.icons{
+    float: right;
+    display: inline;
+    margin: 0.5%;
+}
